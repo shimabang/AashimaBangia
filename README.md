@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dr Aashima Bangia</h1>
 <h3 align="center">Core researcher in Applied Mathematics| Data Science Researcher| Educator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shimabang&label=Profile%20views&color=0e75b6&style=flat" alt="shimabang" /> </p>
+<p align="left"> <img src = "https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif" alt="shimabang" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shimabang" alt="shimabang" /></a> </p>
 
